@@ -1,1 +1,1 @@
-# Prescripta
+# Prescripto
